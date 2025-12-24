@@ -3,7 +3,7 @@
 This project set for you RPC (in discord) when you work in FL Studio!
 
 > [!IMPORTANT]
-> This project in BETA! [Report any bugs.](github.com/ii5601/FL-Studio-rpc/issues)
+> This project in BETA! [Report any bugs.](https://github.com/ii5601/FL-Studio-rpc/issues)
 
 ### Open source
 This project is open source.
