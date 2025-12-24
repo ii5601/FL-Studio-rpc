@@ -37,9 +37,10 @@ if lib_notinstalled == True:
     if pyautogui_error == True:
         os.system("pip install pyautogui")
 
+import discordrpc
+import pyautogui
+
 rpc = discordrpc.RPC(app_id=1453309601914294352)
-
-
 
 def find_fl_studio_window():
     """Find and return the FL Studio window if it exists"""
@@ -82,7 +83,7 @@ while True:
                 )
 
                 in_project = True
-                
+
             start_rpc = th.Thread(target=rpc.run())
             start_rpc.start()
     else:
