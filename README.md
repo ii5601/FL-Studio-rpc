@@ -10,7 +10,8 @@ This project is open source.
 NOT OPEN DOOR FOR STEALS! [MIT License](LICENSE) is this project have!
 
 ### Download & Install
-This project made on [python](https://python.org) so to run you needed it!
+This project made on [python](https://python.org) so to run you needed it!<br>
+Download by Code > Download ZIP Unarhive it!
 Install libs this command:
 ```
 pip install discord-rpc
