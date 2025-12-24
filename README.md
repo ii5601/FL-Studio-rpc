@@ -9,7 +9,7 @@ This project set for you RPC (in discord) when you work in FL Studio!
 This project is open source.
 NOT OPEN DOOR FOR STEALS! [MIT License](LICENSE) is this project have!
 
-### Doowload
+### Download & Install
 This project made on [python](https://python.org) so to run you needed it!
 Install libs this command:
 ```
