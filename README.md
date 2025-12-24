@@ -10,4 +10,4 @@ NOT OPEN DOOR FOR STEALS! [MIT License](LICENSE) is this project have!
 
 ### Doowload
 This poject made on [python](https://python.org) so to run source ou needed it!
-Or download from [releases](https://github.com/ii5601/FL-Studio-rpc/releases/new)!
+Or download from [releases](https://github.com/ii5601/FL-Studio-rpc/releases/)!
